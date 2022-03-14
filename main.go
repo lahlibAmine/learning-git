@@ -1,1 +1,2 @@
-finc main()
+package main
+func main() {}
